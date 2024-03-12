@@ -58,6 +58,7 @@ body{
  }
  .msg-container{
    margin: 2%;
+   height: 70vmin;
  }
  .hide{
    display: none;
